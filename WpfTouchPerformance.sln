@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTouchPerformance", "WpfTouchPerformance\WpfTouchPerformance.csproj", "{D3DE843E-0FAF-487D-8DBD-401E0BA6CC1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{80BA02D6-1408-4A46-951F-56C20F3C3540}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3DE843E-0FAF-487D-8DBD-401E0BA6CC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DE843E-0FAF-487D-8DBD-401E0BA6CC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DE843E-0FAF-487D-8DBD-401E0BA6CC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DE843E-0FAF-487D-8DBD-401E0BA6CC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

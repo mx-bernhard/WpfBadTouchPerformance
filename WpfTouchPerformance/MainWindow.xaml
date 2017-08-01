@@ -1,0 +1,63 @@
+﻿<Window x:Class="WpfTouchPerformance.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTouchPerformance"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <local:MyContentControl HorizontalContentAlignment="Stretch">
+            <local:MyContentControl HorizontalContentAlignment="Stretch">
+                <local:MyContentControl HorizontalContentAlignment="Stretch">
+                    <local:MyContentControl HorizontalContentAlignment="Stretch">
+                        <local:MyContentControl HorizontalContentAlignment="Stretch">
+                            <local:MyContentControl HorizontalContentAlignment="Stretch">
+                                <ListBox>
+                                    <ListBox.Items>
+                                        <ListBoxItem>Test 01</ListBoxItem>
+                                        <ListBoxItem>Test 02</ListBoxItem>
+                                        <ListBoxItem>Test 03</ListBoxItem>
+                                        <ListBoxItem>Test 04</ListBoxItem>
+                                        <ListBoxItem>Test 05</ListBoxItem>
+                                        <ListBoxItem>Test 06</ListBoxItem>
+                                        <ListBoxItem>Test 07</ListBoxItem>
+                                        <ListBoxItem>Test 08</ListBoxItem>
+                                        <ListBoxItem>Test 09</ListBoxItem>
+                                        <ListBoxItem>Test 10</ListBoxItem>
+                                        <ListBoxItem>Test 11</ListBoxItem>
+                                        <ListBoxItem>Test 12</ListBoxItem>
+                                        <ListBoxItem>Test 13</ListBoxItem>
+                                        <ListBoxItem>Test 14</ListBoxItem>
+                                        <ListBoxItem>Test 15</ListBoxItem>
+                                        <ListBoxItem>Test 16</ListBoxItem>
+                                        <ListBoxItem>Test 17</ListBoxItem>
+                                        <ListBoxItem>Test 18</ListBoxItem>
+                                        <ListBoxItem>Test 19</ListBoxItem>
+                                        <ListBoxItem>Test 20</ListBoxItem>
+                                        <ListBoxItem>Test 21</ListBoxItem>
+                                        <ListBoxItem>Test 22</ListBoxItem>
+                                        <ListBoxItem>Test 23</ListBoxItem>
+                                        <ListBoxItem>Test 24</ListBoxItem>
+                                        <ListBoxItem>Test 25</ListBoxItem>
+                                        <ListBoxItem>Test 26</ListBoxItem>
+                                        <ListBoxItem>Test 27</ListBoxItem>
+                                        <ListBoxItem>Test 28</ListBoxItem>
+                                        <ListBoxItem>Test 29</ListBoxItem>
+                                        <ListBoxItem>Test 30</ListBoxItem>
+                                        <ListBoxItem>Test 31</ListBoxItem>
+                                        <ListBoxItem>Test 32</ListBoxItem>
+                                        <ListBoxItem>Test 33</ListBoxItem>
+                                        <ListBoxItem>Test 34</ListBoxItem>
+                                        <ListBoxItem>Test 35</ListBoxItem>
+                                        <ListBoxItem>Test 36</ListBoxItem>
+                                    </ListBox.Items>
+                                </ListBox>
+                            </local:MyContentControl>
+                        </local:MyContentControl>
+                    </local:MyContentControl>
+                </local:MyContentControl>
+            </local:MyContentControl>
+        </local:MyContentControl>
+    </Grid>
+</Window>
